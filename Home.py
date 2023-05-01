@@ -1,5 +1,5 @@
 import streamlit as st
-import PIL as Image
+from PIL import Image
 
 
 st.header('kimia organik')
