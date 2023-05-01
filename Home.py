@@ -1,5 +1,9 @@
 import streamlit as st
 
+
+st.header('kimia organik')
+st.subheader('anak kimia bngt')
+
 Soal = st.selectbox(
     'Pilih soal',
     ('Soal 1', 'Soal 2', 'Soal 3'))
